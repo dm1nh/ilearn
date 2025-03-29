@@ -7,7 +7,15 @@ type Props = TSetMdx
 const set = Astro.props
 ---
 
-<BaseLayout title={set.data.title} description={set.data.description}>
+<BaseLayout
+  title={set.data.title}
+  description={set.data.description}
+  breadcrumb={[
+    { href: "/ilearn/english", label: "English" },
+    { href: "/ilearn/english/sets", label: "Sets" },
+    { href: `/ilearn/english/sets/${set.id}`, label: set.data.title },
+  ]}
+>
   <div class="grid gap-2">
     <h1 class="text-2xl font-medium">{set.data.title}</h1>
     <slot />

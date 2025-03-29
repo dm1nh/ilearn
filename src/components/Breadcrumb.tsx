@@ -21,9 +21,7 @@ export function Breadcrumb({ breadcrumb }: { breadcrumb: BreadcrumbEntry[] }) {
         {breadcrumb.slice(0, -1).map(({ href, label }) => (
           <Fragment key={href}>
             <BreadcrumbItem>
-              <a href={href}>
-                <BreadcrumbLink>{label}</BreadcrumbLink>
-              </a>
+              <BreadcrumbLink href={href}>{label}</BreadcrumbLink>
             </BreadcrumbItem>
             <BreadcrumbSeparator />
           </Fragment>

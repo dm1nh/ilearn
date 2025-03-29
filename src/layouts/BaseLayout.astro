@@ -13,11 +13,7 @@ interface Props {
   breadcrumb?: BreadcrumbEntry[]
 }
 
-const {
-  title,
-  description,
-  breadcrumb = [{ label: "Home", href: "/" }],
-} = Astro.props
+const { title, description, breadcrumb = [] } = Astro.props
 ---
 
 <html lang="en">
@@ -31,7 +27,9 @@ const {
     <Header />
     <main>
       <Container class="py-6">
-        <Breadcrumb breadcrumb={breadcrumb} />
+        <Breadcrumb
+          breadcrumb={[{ href: "/ilearn", label: "Home" }, ...breadcrumb]}
+        />
         <div class="mt-4">
           <slot />
         </div>

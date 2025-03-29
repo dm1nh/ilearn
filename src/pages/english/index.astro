@@ -9,7 +9,11 @@ const items = [
 ]
 ---
 
-<BaseLayout title="English" description="For the English classes">
+<BaseLayout
+  title="English"
+  description="For the English classes"
+  breadcrumb={[{ href: "/ilearn/english", label: "English" }]}
+>
   <div class="grid grid-cols-1 gap-2 md:grid-cols-2">
     {
       items.map((item) => (
