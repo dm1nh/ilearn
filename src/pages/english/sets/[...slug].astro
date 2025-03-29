@@ -1,0 +1,23 @@
+---
+import SetLayout from "@/layouts/SetLayout.astro"
+import { getSets, type TSetMdx } from "@/lib/data"
+import { render } from "astro:content"
+
+export async function getStaticPaths() {
+  const sets = await getSets()
+  return sets.map((set) => ({
+    params: { slug: set.id },
+    props: set,
+  }))
+}
+
+type Props = TSetMdx
+
+const { slug } = Astro.params
+const set = Astro.props
+const { Content } = await render(set)
+---
+
+<SetLayout {...set}>
+  <Content />
+</SetLayout>

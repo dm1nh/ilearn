@@ -1,0 +1,41 @@
+---
+import "@/styles/global.css"
+
+import BaseHead from "@/components/BaseHead.astro"
+import { Breadcrumb, type BreadcrumbEntry } from "@/components/Breadcrumb"
+import Container from "@/components/Container.astro"
+import Header from "@/components/Header.astro"
+import { SITE_DESCRIPTION, SITE_TITLE } from "@/lib/constants"
+
+interface Props {
+  title?: string
+  description?: string
+  breadcrumb?: BreadcrumbEntry[]
+}
+
+const {
+  title,
+  description,
+  breadcrumb = [{ label: "Home", href: "/" }],
+} = Astro.props
+---
+
+<html lang="en">
+  <head>
+    <BaseHead
+      title={title ?? SITE_TITLE}
+      description={description ?? SITE_DESCRIPTION}
+    />
+  </head>
+  <body>
+    <Header />
+    <main>
+      <Container class="py-6">
+        <Breadcrumb breadcrumb={breadcrumb} />
+        <div class="mt-4">
+          <slot />
+        </div>
+      </Container>
+    </main>
+  </body>
+</html>

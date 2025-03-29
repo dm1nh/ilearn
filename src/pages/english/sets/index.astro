@@ -1,0 +1,28 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import { getSets } from "@/lib/data"
+import { formatDate } from "@/lib/utils"
+
+const sets = await getSets()
+---
+
+<BaseLayout title="Study sets" description="All study sets">
+  <div class="grid gap-2">
+    <h1 class="text-2xl font-semibold">Study sets</h1>
+    <div class="grid grid-cols-1 gap-2 md:grid-cols-2">
+      {
+        sets.map((set) => (
+          <a href={`/english/sets/${set.id}`}>
+            <div class="grid rounded-md border p-4">
+              <h3 class="text-lg font-medium">{set.data.title}</h3>
+              <p class="text-nowrap text-ellipsis">{set.data.description}</p>
+              <p class="text-muted-foreground mt-2 text-sm">
+                {formatDate(set.data.date)}
+              </p>
+            </div>
+          </a>
+        ))
+      }
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,15 @@
+---
+import type { TSetMdx } from "@/lib/data"
+
+import BaseLayout from "./BaseLayout.astro"
+
+type Props = TSetMdx
+const set = Astro.props
+---
+
+<BaseLayout title={set.data.title} description={set.data.description}>
+  <div class="grid gap-2">
+    <h1 class="text-2xl font-medium">{set.data.title}</h1>
+    <slot />
+  </div>
+</BaseLayout>

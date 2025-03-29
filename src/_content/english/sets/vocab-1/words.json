@@ -1,0 +1,310 @@
+[
+  {
+    "term": "pizza",
+    "pos": "noun",
+    "ipa": "/ˈpiːtsə/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/piz/pizza/pizza__us_1.mp3",
+    "definition": "bánh pizza"
+  },
+  {
+    "term": "ice cream",
+    "pos": "noun",
+    "ipa": "/ˈaɪs kriːm/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ice/ice_c/ice_cream_1_us_2.mp3",
+    "definition": "kem"
+  },
+  {
+    "term": "meat",
+    "pos": "noun",
+    "ipa": "/miːt/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mea/meat_/meat__us_1.mp3",
+    "definition": "thịt"
+  },
+  {
+    "term": "pork",
+    "pos": "noun",
+    "ipa": "/pɔːrk/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/por/pork_/pork__us_1.mp3",
+    "definition": "thịt heo"
+  },
+  {
+    "term": "beef",
+    "pos": "noun",
+    "ipa": "/biːf/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bee/beef_/beef__us_1.mp3",
+    "definition": "thịt bò"
+  },
+  {
+    "term": "steak",
+    "pos": "noun",
+    "ipa": "/steɪk/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/ste/steak/steak__us_1.mp3",
+    "definition": "bò bít tết"
+  },
+  {
+    "term": "seafood",
+    "pos": "noun",
+    "ipa": "/ˈsiːfuːd/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sea/seafo/seafood__us_1.mp3",
+    "definition": "hải sản"
+  },
+  {
+    "term": "vegetable",
+    "pos": "noun",
+    "ipa": "/ˈvedʒtəbl/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/veg/veget/vegetable__us_1.mp3",
+    "definition": "rau (số ít)"
+  },
+  {
+    "term": "egg",
+    "pos": "noun",
+    "ipa": "/eɡ/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/egg/egg__/egg__us_1.mp3",
+    "definition": "trứng"
+  },
+  {
+    "term": "sugar",
+    "pos": "noun",
+    "ipa": "/ˈʃʊɡər/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sug/sugar/sugar__us_2.mp3",
+    "definition": "đường"
+  },
+  {
+    "term": "soup",
+    "pos": "noun",
+    "ipa": "/suːp/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sou/soup_/soup__us_1.mp3",
+    "definition": "canh, súp, cháo"
+  },
+  {
+    "term": "noodle",
+    "pos": "noun",
+    "ipa": "/ˈnuːdl/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/noo/noodl/noodle__us_1.mp3",
+    "definition": "mì, bún, miến, phở, ..."
+  },
+  {
+    "term": "pasta",
+    "pos": "noun",
+    "ipa": "/ˈpɑːstə/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pas/pasta/pasta__us_1.mp3",
+    "definition": "mì ống, nui"
+  },
+  {
+    "term": "fish",
+    "pos": "noun",
+    "ipa": "/fɪʃ/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fis/fish_/fish__us_1.mp3",
+    "definition": "cá (số nhiều: fish/fishes)"
+  },
+  {
+    "term": "shrimp",
+    "pos": "noun",
+    "ipa": "/ʃrɪmp/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/shr/shrim/shrimp__us_1.mp3",
+    "definition": "tôm, tép"
+  },
+  {
+    "term": "lobster",
+    "pos": "noun",
+    "ipa": "/ˈlɑːbstər/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lob/lobst/lobster__us_1.mp3",
+    "definition": "tôm hùm"
+  },
+  {
+    "term": "crab",
+    "pos": "noun",
+    "ipa": "/kræb/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cra/crab_/crab__us_1.mp3",
+    "definition": "cua"
+  },
+  {
+    "term": "rice",
+    "pos": "noun",
+    "ipa": "/raɪs/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ric/rice_/rice__us_1.mp3",
+    "definition": "gạo, cơm"
+  },
+  {
+    "term": "cheese",
+    "pos": "noun",
+    "ipa": "/tʃiːz/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/che/chees/cheese__us_1.mp3",
+    "definition": "phô mai"
+  },
+  {
+    "term": "bread",
+    "pos": "noun",
+    "ipa": "/bred/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/bread/bread__us_1.mp3",
+    "definition": "bánh mì [uncountable]"
+  },
+  {
+    "term": "sauce",
+    "pos": "noun",
+    "ipa": "/sɔːs/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sau/sauce/sauce__us_1.mp3",
+    "definition": "nước xốt"
+  },
+  {
+    "term": "salad",
+    "pos": "noun",
+    "ipa": "/ˈsæləd/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sal/salad/salad__us_2.mp3",
+    "definition": ""
+  },
+  {
+    "term": "onion",
+    "pos": "noun",
+    "ipa": "/ˈʌnjən/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/oni/onion/onion__us_1.mp3",
+    "definition": "hành tây"
+  },
+  {
+    "term": "potato",
+    "pos": "noun",
+    "ipa": "/pəˈteɪtəʊ/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pot/potat/potato__us_2_rr.mp3",
+    "definition": "khoai tây"
+  },
+  {
+    "term": "tomato",
+    "pos": "noun",
+    "ipa": "/təˈmeɪtəʊ/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tom/tomat/tomato__us_1.mp3",
+    "definition": "cà chua"
+  },
+  {
+    "term": "carrot",
+    "pos": "noun",
+    "ipa": "/ˈkærət/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/car/carro/carrot__us_1.mp3",
+    "definition": "cà rốt"
+  },
+  {
+    "term": "broccoli",
+    "pos": "noun",
+    "ipa": "/ˈbrɑːkəli/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bro/brocc/broccoli__us_1_rr.mp3",
+    "definition": "bông cải xanh"
+  },
+  {
+    "term": "spinach",
+    "pos": "noun",
+    "ipa": "/ˈspɪnɪtʃ/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spi/spina/spinach__us_1.mp3",
+    "definition": "rau cải bó xôi"
+  },
+  {
+    "term": "cucumber",
+    "pos": "noun",
+    "ipa": "/ˈkjuːkʌmbər/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cuc/cucum/cucumber__us_1.mp3",
+    "definition": "dưa leo"
+  },
+  {
+    "term": "sausage",
+    "pos": "noun",
+    "ipa": "/ˈsɔːsɪdʒ/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sau/sausa/sausage__us_1_rr.mp3",
+    "definition": "xúc xích, lạp xưởng"
+  },
+  {
+    "term": "toast",
+    "pos": "noun",
+    "ipa": "/təʊst/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/toa/toast/toast__us_1.mp3",
+    "definition": "bánh mì lát nướng"
+  },
+  {
+    "term": "cookie",
+    "pos": "noun",
+    "ipa": "/ˈkʊki/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/coo/cooki/cookie__us_1.mp3",
+    "definition": "bánh quy"
+  },
+  {
+    "term": "biscuit",
+    "pos": "noun",
+    "ipa": "/ˈbɪskɪt/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bis/biscu/biscuit__us_1.mp3",
+    "definition": "bánh quy"
+  },
+  {
+    "term": "croissant",
+    "pos": "noun",
+    "ipa": "/kwɑːˈsɑːnt/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cro/crois/croissant__us_1_rr.mp3",
+    "definition": "bánh sừng trâu"
+  },
+  {
+    "term": "yogurt",
+    "pos": "noun",
+    "ipa": "/ˈjəʊɡərt/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/y/yog/yogur/yogurt__us_1.mp3",
+    "definition": "sữa chua"
+  },
+  {
+    "term": "tasty",
+    "pos": "adjective",
+    "ipa": "/ˈteɪsti/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tas/tasty/tasty__us_1.mp3",
+    "definition": "nhiều hương vị"
+  },
+  {
+    "term": "bland",
+    "pos": "adjective",
+    "ipa": "/blænd/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bla/bland/bland__us_1.mp3",
+    "definition": "có vị nhạt nhẽo"
+  },
+  {
+    "term": "sweet",
+    "pos": "adjective",
+    "ipa": "/swiːt/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/swe/sweet/sweet__us_1.mp3",
+    "definition": "ngọt"
+  },
+  {
+    "term": "salty",
+    "pos": "adjective",
+    "ipa": "/ˈsɔːlti/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sal/salty/salty__us_1.mp3",
+    "definition": "mặn"
+  },
+  {
+    "term": "sour",
+    "pos": "adjective",
+    "ipa": "/ˈsaʊər/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sou/sour_/sour__us_1.mp3",
+    "definition": "chua"
+  },
+  {
+    "term": "bitter",
+    "pos": "adjective",
+    "ipa": "/ˈbɪtər/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bit/bitte/bitter__us_3.mp3",
+    "definition": "đắng"
+  },
+  {
+    "term": "delicious",
+    "pos": "adjective",
+    "ipa": "/dɪˈlɪʃəs/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/del/delic/delicious__us_2.mp3",
+    "definition": "ngon"
+  },
+  {
+    "term": "spicy",
+    "pos": "adjective",
+    "ipa": "/ˈspaɪsi/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spi/spicy/spicy__us_1.mp3",
+    "definition": "cay"
+  },
+  {
+    "term": "juicy",
+    "pos": "adjective",
+    "ipa": "/ˈdʒuːsi/",
+    "sound": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jui/juicy/juicy__us_1.mp3",
+    "definition": "mọng nước"
+  }
+]

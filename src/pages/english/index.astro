@@ -1,0 +1,24 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro"
+
+const items = [
+  {
+    href: "/english/sets",
+    label: "Study Sets",
+  },
+]
+---
+
+<BaseLayout title="English" description="For the English classes">
+  <div class="grid grid-cols-1 gap-2 md:grid-cols-2">
+    {
+      items.map((item) => (
+        <a href={item.href}>
+          <div class="rounded-md border p-6 text-2xl font-semibold">
+            {item.label}
+          </div>
+        </a>
+      ))
+    }
+  </div>
+</BaseLayout>
