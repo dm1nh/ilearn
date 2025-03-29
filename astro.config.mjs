@@ -11,6 +11,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   site: "https://dm1nh.github.io",
-  base: "i-learn",
+  base: "ilearn",
 })
-
